@@ -68,10 +68,10 @@
    git add .
    git commit -m "week 01 문제 풀이 추가 - your_name"
 5. **브랜치 푸시**:
-  ```bash
+   ```bash
    git push origin week_01/your_name
 6. **Pull Request 생성**:
-  ```bash
+   ```bash
    GitHub에서 Pull Request를 생성하고, 주차 문제 풀이임을 명시하세요.
 
 ## 코드 리뷰 프로세스
