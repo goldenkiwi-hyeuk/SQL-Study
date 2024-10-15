@@ -44,19 +44,24 @@
 
 1. **레포지토리 클론**:
    ```bash
-   git clone https://github.com/your-username/sql-algorithm-study.git
+   git clone https://github.com/goldenkiwi-hyeuk/SQL-Study.git
    cd sql-algorithm-study
 2. **새 브랜치 생성**:
-  git checkout -b week_01/your_name
+   ```bash
+   git checkout -b week_01/your_name
 3. **문제 해결 후 솔루션 추가**:
-  해당 주차 폴더 안에 자신의 SQL 솔루션 파일을 추가하세요 (예: week_01/your_name_solution.sql).
+   ```bash
+   해당 주차 폴더 안에 자신의 SQL 솔루션 파일을 추가하세요 (예: week_01/your_name_solution.sql).
 4. **변경 사항 커밋**:
-  git add .
-  git commit -m "week 01 문제 풀이 추가 - your_name"
+   ```bash
+   git add .
+   git commit -m "week 01 문제 풀이 추가 - your_name"
 5. **브랜치 푸시**:
-  git push origin week_01/your_name
+  ```bash
+   git push origin week_01/your_name
 6. **Pull Request 생성**:
-  GitHub에서 Pull Request를 생성하고, 주차 문제 풀이임을 명시하세요.
+  ```bash
+   GitHub에서 Pull Request를 생성하고, 주차 문제 풀이임을 명시하세요.
 
 ## 코드 리뷰 프로세스
 모든 참여자는 매주 다른 사람의 솔루션을 최소 1개 이상 리뷰하는 것을 권장합니다. 코드 리뷰는 다음과 같이 진행됩니다:
