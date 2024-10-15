@@ -100,7 +100,7 @@
   <tr>
     <td>
         <a href="https://github.com/goldenkiwi-hyeuk">
-            <img src="" width="100px" />
+            <img src="https://avatars.githubusercontent.com/u/95901686?s=96&v=4" width="100px" />
         </a>
     </td>
     <td>
