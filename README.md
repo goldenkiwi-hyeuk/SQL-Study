@@ -59,17 +59,17 @@
    cd sql-algorithm-study
 2. **새 브랜치 생성**:
    ```bash
-   git checkout -b week_01/your_name
+   git checkout -b week_01/parkseonghyeuk
 3. **문제 해결 후 솔루션 추가**:
    ```bash
-   해당 주차 폴더 안에 자신의 SQL 솔루션 파일을 추가하세요 (예: week_01/your_name_solution.sql).
+   해당 주차 폴더 안에 자신의 SQL 솔루션 파일을 추가하세요 (예: week_01/parkseonghyeuk.sql).
 4. **변경 사항 커밋**:
    ```bash
    git add .
-   git commit -m "week 01 문제 풀이 추가 - your_name"
+   git commit -m "week 01 문제 풀이 추가 - 박성혁"
 5. **브랜치 푸시**:
    ```bash
-   git push origin week_01/your_name
+   git push origin week_01/parkseonghyeuk
 6. **Pull Request 생성**:
    ```bash
    GitHub에서 Pull Request를 생성하고, 주차 문제 풀이임을 명시하세요.
