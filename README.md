@@ -45,7 +45,7 @@
 │   └── review.md
 ├── README.md                     # 프로젝트 개요
 └── 기타 주차 폴더 (week_03 등)
-
+```
 
 - **problem.md**: 프로그래머스 문제 설명과 링크가 포함됩니다.
 - **your_name_solution.sql**: 본인이 작성한 SQL 풀이를 저장합니다.
