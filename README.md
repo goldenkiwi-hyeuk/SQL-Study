@@ -84,7 +84,7 @@
 
 ## 주간 문제 목록
 
-### Week 01:
+### Week 01: 아픈 동물 찾기
 - **문제**: [프로그래머스 문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/59036)
 - **제출 기한**: 2024-10-20
 
