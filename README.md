@@ -33,7 +33,18 @@
 
 이 레포지토리는 주차별로 구성되며, 각 주차마다 문제 설명과 개인 솔루션 파일이 있습니다. 아래는 구조 예시입니다:
 
-/repo_root ├── /week_01 │ ├── problem.md # 문제 설명과 링크 │ ├── your_name_solution.sql # 개인의 SQL 풀이 파일 │ └── review.md # 코드 리뷰 및 의견 기록 ├── /week_02 │ ├── problem.md │ ├── your_name_solution.sql │ └── review.md ├── README.md # 프로젝트 개요 └── 기타 주차 폴더 (week_03 등)
+```plaintext
+/repo_root
+├── /week_01
+│   ├── problem.md                # 문제 설명과 링크
+│   ├── your_name_solution.sql    # 개인의 SQL 풀이 파일
+│   └── review.md                 # 코드 리뷰 및 의견 기록
+├── /week_02
+│   ├── problem.md
+│   ├── your_name_solution.sql
+│   └── review.md
+├── README.md                     # 프로젝트 개요
+└── 기타 주차 폴더 (week_03 등)
 
 
 - **problem.md**: 프로그래머스 문제 설명과 링크가 포함됩니다.
