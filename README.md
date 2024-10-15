@@ -111,7 +111,7 @@
 
   <tr> 
     <td align="center"><a href="https://github.com/goldenkiwi-hyeuk">박성혁</a></td>
-    <td align="center"><a href="https://github.com/goldenkiwi-hyeuk">김경민</a></td>
+    <td align="center"><a href="https://github.com/gyungmean">김경민</a></td>
     <td align="center"><a href="https://github.com/goldenkiwi-hyeuk">박성혁</a></td>
     <td align="center"><a href="https://github.com/goldenkiwi-hyeuk">박성혁</a></td>
   </tr>
