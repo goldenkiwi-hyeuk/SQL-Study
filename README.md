@@ -93,8 +93,8 @@
         </a>
     </td>
     <td>
-        <a href="https://github.com/goldenkiwi-hyeuk">
-            <img src="" width="100px" />
+        <a href="https://github.com/gyungmean">
+            <img src="https://avatars.githubusercontent.com/u/70059000?v=4" width="100px" />
         </a>
     </td>
     <td>
@@ -111,7 +111,7 @@
 
   <tr> 
     <td align="center"><a href="https://github.com/goldenkiwi-hyeuk">박성혁</a></td>
-    <td align="center"><a href="https://github.com/goldenkiwi-hyeuk">박성혁</a></td>
+    <td align="center"><a href="https://github.com/goldenkiwi-hyeuk">김경민</a></td>
     <td align="center"><a href="https://github.com/goldenkiwi-hyeuk">박성혁</a></td>
     <td align="center"><a href="https://github.com/goldenkiwi-hyeuk">박성혁</a></td>
   </tr>
