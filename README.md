@@ -81,6 +81,10 @@
 - **문제**: [프로그래머스 문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/293260)
 - **제출 기한**: 2024-10-27
 
+### Week 03:
+- **문제**: [프로그래머스 문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/299307)
+- **제출 기한**: 2024-11-3
+
 (*매주 문제가 업데이트됩니다.*)
 
 ## 👥 참여인원
@@ -102,18 +106,12 @@
             <img src="https://avatars.githubusercontent.com/u/156384314?v=4" width="100px" />
         </a>
     </td>
-    <td>
-        <a href="https://github.com/goldenkiwi-hyeuk">
-            <img src="" width="100px" />
-        </a>
-    </td>
   </tr>
 
   <tr> 
     <td align="center"><a href="https://github.com/goldenkiwi-hyeuk">박성혁</a></td>
     <td align="center"><a href="https://github.com/gyungmean">김경민</a></td>
     <td align="center"><a href="https://github.com/hyb26">황예빈</a></td>
-    <td align="center"><a href="https://github.com/goldenkiwi-hyeuk">박성혁</a></td>
   </tr>
 </table>
 
