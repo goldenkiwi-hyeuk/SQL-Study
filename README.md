@@ -53,7 +53,7 @@
 1. **레포지토리 클론**:
    ```bash
    git clone https://github.com/goldenkiwi-hyeuk/SQL-Study.git
-   cd sql-algorithm-study
+   cd SQL-Study
 2. **새 브랜치 생성**:
    ```bash
    git checkout -b week_01/parkseonghyeuk
@@ -83,7 +83,7 @@
 
 ### Week 03:
 - **문제**: [프로그래머스 문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/299307)
-- **제출 기한**: 2024-11-3
+- **제출 기한**: 2024-11-03
 
 ### Week 04:
 - **문제**: [프로그래머스 문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/59045)
@@ -96,6 +96,10 @@
 ### Week 06:
 - **문제**: [프로그래머스 문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/144856)
 - **제출 기한**: 2024-11-24
+
+### Week 07:
+- **문제**: [프로그래머스 문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/132204)
+- **제출 기한**: 2024-12-01
 
 (*매주 문제가 업데이트됩니다.*)
 
