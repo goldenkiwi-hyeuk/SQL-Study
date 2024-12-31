@@ -77,45 +77,49 @@
 - **문제**: [프로그래머스 문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/59036)
 - **제출 기한**: 2024-10-20
 
-### Week 02:
+### Week 02: 월별 잡은 물고기 수 구하기
 - **문제**: [프로그래머스 문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/293260)
 - **제출 기한**: 2024-10-27
 
-### Week 03:
+### Week 03: 대장균의 크기에 따라 분류하기 1
 - **문제**: [프로그래머스 문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/299307)
 - **제출 기한**: 2024-11-03
 
-### Week 04:
+### Week 04: 보호소에서 중성화한 동물
 - **문제**: [프로그래머스 문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/59045)
 - **제출 기한**: 2024-11-10
 
-### Week 05:
+### Week 05: 서울에 위치한 식당 목록 출력하기
 - **문제**: [프로그래머스 문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131118)
 - **제출 기한**: 2024-11-17
 
-### Week 06:
+### Week 06: 저자 별 카테고리 별 매출액 집계하기
 - **문제**: [프로그래머스 문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/144856)
 - **제출 기한**: 2024-11-24
 
-### Week 07:
+### Week 07: 취소되지 않은 진료 예약 조회하기
 - **문제**: [프로그래머스 문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/132204)
 - **제출 기한**: 2024-12-01
 
-### Week 08:
+### Week 08: 오프라인／온라인 판매 데이터 통합하기
 - **문제**: [프로그래머스 문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131537)
 - **제출 기한**: 2024-12-08
 
-### Week 09:
+### Week 09: 식품분류별 가장 비싼 식품의 정보 조회하기
 - **문제**: [프로그래머스 문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131116)
 - **제출 기한**: 2024-12-15
 
-### Week 10:
+### Week 10: 우유와 요거트가 담긴 장바구니
 - **문제**: [프로그래머스 문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/62284)
 - **제출 기한**: 2024-12-22
 
-### Week 11:
+### Week 11: 특정 세대의 대장균 찾기
 - **문제**: [프로그래머스 문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/301650)
 - **제출 기한**: 2024-12-29
+
+### Week 12: 특정 기간동안 대여 가능한 자동차들의 대여비용 구하기
+- **문제**: [프로그래머스 문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/157339)
+- **제출 기한**: 2024-01-05
 
 (*매주 문제가 업데이트됩니다.*)
 
