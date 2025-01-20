@@ -129,6 +129,11 @@
 - **문제**: [프로그래머스 문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131532)
 - **제출 기한**: 2024-01-19
 
+### Week 15: 입양 시각 구하기(2)
+- **문제**: [프로그래머스 문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/59413)
+- **제출 기한**: 2024-01-26
+
+
 
 (*매주 문제가 업데이트됩니다.*)
 
