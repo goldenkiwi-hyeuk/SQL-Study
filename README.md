@@ -133,6 +133,9 @@
 - **문제**: [프로그래머스 문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/59413)
 - **제출 기한**: 2024-01-26
 
+### Week 16: 자동차 대여 기록 별 대여 금액 구하기
+- **문제**: [프로그래머스 문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/151141)
+- **제출 기한**: 2024-02-02
 
 
 (*매주 문제가 업데이트됩니다.*)
