@@ -137,6 +137,9 @@
 - **문제**: [프로그래머스 문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/151141)
 - **제출 기한**: 2024-02-02
 
+### Week 17: 주문량이 많은 아이스크림들 조회하기
+- **문제**: [프로그래머스 문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/133027)
+- **제출 기한**: 2024-02-09
 
 (*매주 문제가 업데이트됩니다.*)
 
