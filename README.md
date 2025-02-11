@@ -141,6 +141,10 @@
 - **문제**: [프로그래머스 문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/133027)
 - **제출 기한**: 2024-02-09
 
+### Week 18: 연간 평가점수에 해당하는 평가 등급 및 성과금 조회하기
+- **문제**: [프로그래머스 문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/284528)
+- **제출 기한**: 2024-02-16
+
 (*매주 문제가 업데이트됩니다.*)
 
 ## 👥 참여인원
