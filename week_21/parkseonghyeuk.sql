@@ -1,0 +1,22 @@
+-- 코드를 작성해주세요
+WITH FRONT_SKILL AS (
+    SELECT SUM(CODE)
+    FROM SKILLCODES
+    WHERE CATEGORY = "Front End"
+) , GRADE AS (
+    SELECT 
+        CASE
+            WHEN ((D.SKILL_CODE & (SELECT CODE FROM SKILLCODES WHERE NAME = 'Python')) != 0) 
+                AND ((D.SKILL_CODE & (SELECT * FROM FRONT_SKILL)) != 0) THEN 'A'
+            WHEN ((D.SKILL_CODE & (SELECT CODE FROM SKILLCODES WHERE NAME = 'C#')) != 0)  THEN 'B'
+            WHEN ((D.SKILL_CODE & (SELECT * FROM FRONT_SKILL)) != 0) THEN 'C'
+            ELSE 'D'
+        END AS GRADE
+        , ID, EMAIL
+    FROM DEVELOPERS AS D
+)
+
+SELECT *
+FROM GRADE
+WHERE GRADE != 'D'
+ORDER BY GRADE ASC, ID ASC;
