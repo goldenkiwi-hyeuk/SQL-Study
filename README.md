@@ -161,6 +161,10 @@
 - **문제**: [프로그래머스 문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131534)
 - **제출 기한**: 2024-03-16
 
+### Week 23: 멸종위기의 대장균 찾기
+- **문제**: [프로그래머스 문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/301651)
+- **제출 기한**: 2024-03-23
+
 (*매주 문제가 업데이트됩니다.*)
 
 ## 👥 참여인원
