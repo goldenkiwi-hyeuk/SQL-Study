@@ -181,6 +181,10 @@
 - **문제**: [솔브에스큐엘 문제 링크](https://solvesql.com/problems/mentor-mentee-list/)
 - **제출 기한**: 2024-04-20
 
+### Week 28: 배송 예정일 예측 성공과 실패
+- **문제**: [솔브에스큐엘 문제 링크](https://solvesql.com/problems/estimated-delivery-date/)
+- **제출 기한**: 2024-04-27
+
 (*매주 문제가 업데이트됩니다.*)
 
 ## 👥 참여인원
